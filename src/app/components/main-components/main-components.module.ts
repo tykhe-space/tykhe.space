@@ -5,12 +5,14 @@ import { FormsModule } from '@angular/forms';
 
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
+import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
 
 @NgModule({
 	imports: [
 		CommonModule,
 		RouterModule,
-		FormsModule
+		FormsModule,
+		TrustModule
 	],
 	declarations: [
 		NavbarComponent,
@@ -20,6 +22,7 @@ import { FooterComponent } from './footer/footer.component';
         NavbarComponent,
 		FooterComponent,
 	],
-	providers: [],
+	providers: [
+	],
 })
 export class MainComponentsModule { }

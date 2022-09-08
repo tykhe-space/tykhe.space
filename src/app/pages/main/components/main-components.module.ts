@@ -10,6 +10,8 @@ import { SecondryFeaturesComponent } from './secondry-features/secondry-features
 import { JoinOurCommunityComponent } from './join-our-community/join-our-community.component';
 import { RoadmapComponent } from './roadmap/roadmap.component';
 import { TechnologiesBehindTykhenSpaceComponent } from './technologies-behind-tykhen-space/technologies-behind-tykhen-space.component';
+import { TrustModule } from '../../../core/pipes/trust-html/trust-html.module';
+import { TranslateModule } from '@ngx-translate/core';
 
 
 @NgModule({
@@ -17,9 +19,10 @@ import { TechnologiesBehindTykhenSpaceComponent } from './technologies-behind-ty
 		CommonModule,
 		RouterModule,
 		FormsModule,
+		TranslateModule,
+		TrustModule
 	],
 	declarations: [
-		TrustHtmlPipe,
 		FeaturesComponent,
 		SecondryFeaturesComponent,
 		JoinOurCommunityComponent,

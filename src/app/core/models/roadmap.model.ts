@@ -31,7 +31,7 @@ export const _data: Array<RoadmapItems> = [
 		desc: 'İLK ADIM',
 		childs: [
 			{ key: "Web sitesinin hazırlanması", value: true },
-			{ key: "Whitepaperın hazırlanması ve sunuşu", value: false }
+			{ key: "Whitepaperın hazırlanması ve sunuşu", value: true }
 		],
 		status: true
 	},

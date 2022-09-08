@@ -2,6 +2,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { CommonModule } from '@angular/common';
+import { TranslateModule } from '@ngx-translate/core';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 //#endregion
 
@@ -17,8 +18,8 @@ import { MainLayoutRoutes } from './main-layout.routing';
 //#region Pages
 import { HomeComponent } from '../../pages/main/home/home.component';
 import { MainPageComponentsModule } from '../../pages/main/components/main-components.module';
+import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
 //#endregion
-
 
 @NgModule({
     imports: [
@@ -26,16 +27,19 @@ import { MainPageComponentsModule } from '../../pages/main/components/main-compo
         RouterModule.forChild(MainLayoutRoutes),
         FormsModule,
         ReactiveFormsModule,
-        MainPageComponentsModule
+        MainPageComponentsModule,
+        TranslateModule,
+        TrustModule
     ],
     declarations: [
         //Components
-        HomeComponent
+        HomeComponent,
+        
     ],
     providers: [
         //Services
         SeoService,
-        MainPageComponentsModule
+        MainPageComponentsModule,
     ]
 })
 

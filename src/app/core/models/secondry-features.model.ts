@@ -16,7 +16,7 @@ export const _data: Array<SecondryFeatureItems> = [
 		name: 'Anlık Durum İzleme',
 		alt: 'Oyunun durumunu anlık izleyin',
 		desc: 'Gerçek zamanlı veri izleme ile bütün olasıkları görün.',
-		icon: `<svg aria-hidden="true" class="h-9 w-9" fill="none"><defs><linearGradient id=":Rardm:" x1="11.5" y1="18" x2="36" y2="15.5" gradientUnits="userSpaceOnUse"><stop offset=".194" stop-color="#fff"></stop><stop offset="1" stop-color="#6692F1"></stop></linearGradient></defs><path d="m30 15-4 5-4-11-4 18-4-11-4 7-4-5" stroke="url(#:Rardm:)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>`
+		icon: `<svg  aria-hidden="true" class="h-9 w-9 p-1.5" fill="#fff" fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M6 2a.5.5 0 0 1 .47.33L10 12.036l1.53-4.208A.5.5 0 0 1 12 7.5h3.5a.5.5 0 0 1 0 1h-3.15l-1.88 5.17a.5.5 0 0 1-.94 0L6 3.964 4.47 8.171A.5.5 0 0 1 4 8.5H.5a.5.5 0 0 1 0-1h3.15l1.88-5.17A.5.5 0 0 1 6 2Z"/></svg>`
 	},
 	{
 		name:'NFT',

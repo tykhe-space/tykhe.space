@@ -6,7 +6,7 @@ import { SeoService } from '../../../core/services/seo.service';
 	templateUrl: './home.component.html'
 })
 export class HomeComponent {
-	
+
 	constructor(private _seoService: SeoService) { }
 
 	ngOnInit(): void {

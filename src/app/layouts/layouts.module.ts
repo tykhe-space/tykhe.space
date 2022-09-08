@@ -10,8 +10,7 @@ import { MainComponentsModule } from '../components/main-components/main-compone
 	imports: [
 		CommonModule,
 		RouterModule,
-		MainComponentsModule,
-	],
+		MainComponentsModule],
 	declarations: [
 		MainLayoutComponent,
 	],

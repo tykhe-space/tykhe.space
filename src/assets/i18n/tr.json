@@ -1,5 +1,5 @@
 {
-    "TITLE": "Şansa inanır mısınız? Artık inanın <span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70' preserveAspectRatio='non'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain</span></span> teknolojisi ile gerçek şansa dayanan loto şansını yakalayın.",
+    "TITLE": "Şansa inanır mısınız? Artık inanın <span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain</span></span> teknolojisi ile gerçek şansa dayanan loto şansını yakalayın.",
     "TITLE_ALT": "Devletlere ve firmalara güvenmenize gerek kalmadı. BlockChain teknolojisi ile gerçek şans artık burada.",
     "TITLE_BUTTON_1": "Ön Çekilişe Katıl",
     "TITLE_BUTTON_2": "Nasıl oynanır izle ve öğren",
@@ -18,11 +18,63 @@
     "SECONDRY_FEATURES_ALT": "Cüzdanı bağla stabil coinini seç bilet adetini gir ve oyna",
     "SECONDRY_FEATURES_LIST_1": "Anlık Durum İzleme",
     "SECONDRY_FEATURES_LIST_1_ALT": "Oyunun durumunu anlık izleyin",
-    "SECONDRY_FEATURES_LIST_1_DESC": "Gerçek zamanlı veri izleme ile bütün olasıkları görün.",
-    "SECONDRY_FEATURES_LIST_2": "",
-    "SECONDRY_FEATURES_LIST_2_ALT": "",
-    "SECONDRY_FEATURES_LIST_2_DESC": "",
-    "SECONDRY_FEATURES_LIST_3": "",
-    "SECONDRY_FEATURES_LIST_3_ALT": "",
-    "SECONDRY_FEATURES_LIST_3_DESC": ""
+    "SECONDRY_FEATURES_LIST_1_DESC": "Gerçek zamanlı veri izleme ile bütün olasılıkları görün.",
+    "SECONDRY_FEATURES_LIST_2": "NFT",
+    "SECONDRY_FEATURES_LIST_2_ALT": " Biletlerinizi NFT olarak görün ",
+    "SECONDRY_FEATURES_LIST_2_DESC": " Her bir bilet size özel olarak oluşturulur ve sunulur. ",
+    "SECONDRY_FEATURES_LIST_3": "Kazanan",
+    "SECONDRY_FEATURES_LIST_3_ALT": "Özelleştirilebilir Profil",
+    "SECONDRY_FEATURES_LIST_3_DESC": "Profilinizi özelleştirin ve kimin kazanan olduğunu gösterin.",
+    "JOIN_OUR_COMMUNITY_TITLE": "Topluluğumuza Katılın",
+    "JOIN_OUR_COMMUNITY_ALT": "Telegrama'a hesabımıza katılın ve TYKHE.SPACE ihtiyacınız olan tüm teknik desteği alın.",
+    "JOIN_OUR_COMMUNITY_BTN": "Şimdi Topluluğumuza Katıl",
+    "ROADMAP_TITLE": "YOL HARİTAMIZ",
+    "ROADMAP_ALT": "Bazı özellikler beklenenden daha hızlı geldiği için kullanıma sunma sırası değişebilir ve biz iş ortaklarımız için en faydalı özelliklere/kullanım örneklerine odaklanmaya çalışıyoruz.",
+    "ROADMAP_LIST_1_TITLE": "2022 Q4",
+    "ROADMAP_LIST_1_DATE": "2022 EYLÜL",
+    "ROADMAP_LIST_1_DESC": "İLK ADIM",
+    "ROADMAP_LIST_1_CHILD": {
+        "KEY_1": "Web sitesinin hazırlanması",
+        "KEY_2": "Whitepaperın hazırlanması ve sunuşu"
+    },
+    "ROADMAP_LIST_2_TITLE": "2022 Q4",
+    "ROADMAP_LIST_2_DATE": "2022 EKİM",
+    "ROADMAP_LIST_2_DESC": "HAZIRLIKLAR",
+    "ROADMAP_LIST_2_CHILD": {
+        "KEY_1": "Sosyal medya hesaplarının açılması",
+        "KEY_2": "Tanıtım ve bütçe toplama"
+    },
+    "ROADMAP_LIST_3_TITLE": "2022 Q4",
+    "ROADMAP_LIST_3_DATE": "2022 KASIM",
+    "ROADMAP_LIST_3_DESC": "İLK OYUNLAR",
+    "ROADMAP_LIST_3_CHILD": {
+        "KEY_1": "Oyunun tasarımlarının paylaşılması ve tepkilere göre yenilemeler",
+        "KEY_2": "Oyunların test ağları üzerinde oynanması ve geri dönüşler"
+    },
+    "ROADMAP_LIST_4_TITLE": "2022 Q4",
+    "ROADMAP_LIST_4_DATE": "2022 ARALIK",
+    "ROADMAP_LIST_4_DESC": "OYUNA BAŞLA",
+    "ROADMAP_LIST_4_CHILD": {
+        "KEY_1": "Oyunların canlıya alınması",
+        "KEY_2": "Topluluk Etkinlikleri"
+    },
+    "ROADMAP_LIST_5_TITLE": "2023 Q1",
+    "ROADMAP_LIST_5_DATE": "2023 OCAK ŞUBAT MART",
+    "ROADMAP_LIST_5_DESC": "NFT",
+    "ROADMAP_LIST_5_CHILD": {
+        "KEY_1": "$TYKHE koinin dağıtımı ve oyunlara eklenmesi",
+        "KEY_2": "Biletlerini NFT olarak sunulması"
+    },
+    "ROADMAP_LIST_6_TITLE": "2023 Q2",
+    "ROADMAP_LIST_6_DATE": "2023 NİSAN MAYIS HAZİRAN",
+    "ROADMAP_LIST_6_DESC": "METAVERSE",
+    "ROADMAP_LIST_6_CHILD": {
+        "KEY_1": "Oyun alanlarının metaverse dünyalarında da oynanabilmesi",
+        "KEY_2": "METAVERSE için özel etkinlikler ve büyük konserler"
+    },
+    "BEHIND_TECHNOLOGIES": "ARKASINDAKİ TEKNOLOJİ",
+    "SPECIAL_CONTACT_TITLE": "ÖZEL ORTAKLIKLAR İÇİN <span class='text--gradient'>$TYKHE</span> İLE ŞANSLA BULUŞUN.",
+    "SPECIAL_CONTACT_DESC": "İşle ilgili sorularınız, geliştirici desteği veya genel sorularınız için Discord'umuz aracılığıyla ekibimizle iletişime geçin. Doğrulandıktan sonra #destek kanalına gidin, Moderatörlerimiz sizi ekiple kuracaktır. Ekibimiz, her türlü sorunun tam desteğimizle karşılanabilmesini sağlamak için çeşitli özel çalışma gruplarından oluşmaktadır.",
+    "CONTACT_NOW": "Şimdi İletişime Geç",
+    "PAGES": "SAYFALAR"
 }

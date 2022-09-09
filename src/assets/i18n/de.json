@@ -1,5 +1,5 @@
 {
-    "TITLE": "Glaubst du an Glück? Glauben Sie jetzt, holen Sie sich die Lotteriechance basierend auf echtem Glück mit der<span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70' preserveAspectRatio='non'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain-Technologie.</span></span>",
+    "TITLE": "Glaubst du an Glück? Glauben Sie jetzt, holen Sie sich die Lotteriechance basierend auf echtem Glück mit der<span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain-Technologie.</span></span>",
     "TITLE_ALT": "Sie müssen Regierungen und Unternehmen nicht mehr vertrauen. Mit der Blockchain-Technologie haben Sie jetzt echtes Glück.",
     "TITLE_BUTTON_1": "Nehmen Sie an der Vorrundenauslosung teil",
     "TITLE_BUTTON_2": "How to Play Sehen und lernen.",
@@ -15,5 +15,66 @@
     "FEATURES_LIST_4": "Gewinnen, gewinnen",
     "FEATURES_LIST_4_ALT": "Das Spiel dauert insgesamt 24 Stunden, am Ende des Spiels nimmt nur 1 Ticket das gesamte gesammelte Geld. 10 % des Tresors werden zurück in den Tresor übertragen, 10 % gehen an die Entwickler, von denen 50 % lp für $TYKHE TOKEN hinzugefügt werden. Somit gewinnen alle Spieler.",
     "SECONDRY_FEATURES_TITLE": "Lotto spielen mit Krypto war noch nie so einfach.",
-    "SECONDRY_FEATURES_ALT": "Schließen Sie Ihre Brieftasche an, wählen Sie Ihre Stablecoin, geben Sie die Anzahl der Tickets ein und spielen Sie."
+    "SECONDRY_FEATURES_ALT": "Schließen Sie Ihre Brieftasche an, wählen Sie Ihre Stablecoin, geben Sie die Anzahl der Tickets ein und spielen Sie.",
+    "SECONDRY_FEATURES_LIST_1": "Sofortige Statusüberwachung",
+    "SECONDRY_FEATURES_LIST_1_ALT": "Überwachen Sie den Status des Spiels sofort",
+    "SECONDRY_FEATURES_LIST_1_DESC": "Sehen Sie alle Möglichkeiten mit Echtzeit-Datenüberwachung.",
+    "SECONDRY_FEATURES_LIST_2": "NFT",
+    "SECONDRY_FEATURES_LIST_2_ALT": "Sehen Sie Ihre Tickets als NFT",
+    "SECONDRY_FEATURES_LIST_2_DESC": "Jedes Ticket wird speziell für Sie erstellt und präsentiert. ",
+    "SECONDRY_FEATURES_LIST_3": "Gewinnen",
+    "SECONDRY_FEATURES_LIST_3_ALT": "Anpassbares Profil",
+    "SECONDRY_FEATURES_LIST_3_DESC": "Passen Sie Ihr Profil an und zeigen Sie, wer der Gewinner ist.",
+    "JOIN_OUR_COMMUNITY_TITLE": "Tritt unserer Gemeinschaft bei",
+    "JOIN_OUR_COMMUNITY_ALT": "Treten Sie unserem Telegram-Konto bei und erhalten Sie TYKHE.SPACE den gesamten technischen Support, den Sie benötigen.",
+    "JOIN_OUR_COMMUNITY_BTN": "Treten Sie jetzt unserer Community bei",
+    "ROADMAP_TITLE": "FAHRPLAN",
+    "ROADMAP_ALT": "Die Reihenfolge der Einführung kann sich ändern, da einige Funktionen schneller als erwartet verfügbar sind, und wir versuchen, uns auf die Funktionen/Anwendungsfälle zu konzentrieren, die für unsere Partner am nützlichsten sind.",
+    "ROADMAP_LIST_1_TITLE": "2022 Q4",
+    "ROADMAP_LIST_1_DATE": "SEPTEMBER 2022",
+    "ROADMAP_LIST_1_DESC": "ERSTER SCHRITT",
+    "ROADMAP_LIST_1_CHILD": {
+        "KEY_1": "Vorbereitung der Website",
+        "KEY_2": "Vorbereitung und Präsentation des White Papers"
+    },
+    "ROADMAP_LIST_2_TITLE": "2022 Q4",
+    "ROADMAP_LIST_2_DATE": "OKTOBER 2022",
+    "ROADMAP_LIST_2_DESC": "VORBEREITUNGEN",
+    "ROADMAP_LIST_2_CHILD": {
+        "KEY_1": "Eröffnung von Social-Media-Konten",
+        "KEY_2": "Werbe- und Budgetsammlung"
+    },
+    "ROADMAP_LIST_3_TITLE": "2022 Q4",
+    "ROADMAP_LIST_3_DATE": "2022 NOVEMBER",
+    "ROADMAP_LIST_3_DESC": "ERSTE SPIELE",
+    "ROADMAP_LIST_3_CHILD": {
+        "KEY_1": "Teilen Sie die Designs des Spiels und Updates entsprechend den Reaktionen",
+        "KEY_2": "Spielen auf Testnetzen und Feedback"
+    },
+    "ROADMAP_LIST_4_TITLE": "2022 Q4",
+    "ROADMAP_LIST_4_DATE": "DEZEMBER 2022",
+    "ROADMAP_LIST_4_DESC": "SPIEL BEGINNEN",
+    "ROADMAP_LIST_4_CHILD": {
+        "KEY_1": "Die Spiele live bringen",
+        "KEY_2": "Topluluk Etkinlikleri"
+    },
+    "ROADMAP_LIST_5_TITLE": "2023 Q1",
+    "ROADMAP_LIST_5_DATE": "2023 JANUAR FEBRUAR MÄRZ",
+    "ROADMAP_LIST_5_DESC": "NFT",
+    "ROADMAP_LIST_5_CHILD": {
+        "KEY_1": "Verteilung von $TYKHE-Münzen und Hinzufügen zu Spielen",
+        "KEY_2": "Präsentieren Sie Ihre Tickets als NFT"
+    },
+    "ROADMAP_LIST_6_TITLE": "2023 Q2",
+    "ROADMAP_LIST_6_DATE": "2023 APRIL MAI JUNI",
+    "ROADMAP_LIST_6_DESC": "METAVERS",
+    "ROADMAP_LIST_6_CHILD": {
+        "KEY_1": "Spielbar in Metaverse-Welten von Spielplätzen",
+        "KEY_2": "Sonderveranstaltungen und große Konzerte für METAVERSE"
+    },
+    "BEHIND_TECHNOLOGIES": "DIE TECHNOLOGIE DAHINTER",
+    "SPECIAL_CONTACT_TITLE": "TREFFEN SIE DAS GLÜCK MIT <span class='text--gradient'>$TYKHE</span> FÜR BESONDERE PARTNERSCHAFTEN.",
+    "SPECIAL_CONTACT_DESC": "Für geschäftliche Fragen, Entwicklersupport oder allgemeine Anfragen kontaktieren Sie unser Team über unseren Discord. Gehen Sie nach der Verifizierung zum Kanal #support und unsere Moderatoren werden Sie mit dem Team zusammenbringen. Unser Team besteht aus mehreren engagierten Arbeitsgruppen, um sicherzustellen, dass jedes Problem mit unserer vollen Unterstützung gelöst werden kann.",
+    "CONTACT_NOW": "Kontaktieren Sie mich jetzt",
+    "PAGES": "SEITEN"
 }

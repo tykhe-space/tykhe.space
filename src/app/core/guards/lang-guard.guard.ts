@@ -12,7 +12,7 @@ export class LangGuardGuard implements CanActivate {
     console.log(state);
     if (route.params['lang']) {
       if (["en", "EN", "tr", "TR", "de", "DE"].includes(route.params['lang'])) {
-        window.localStorage.setItem('lang', route.params['lang']);
+        window.localStorage.setItem('currentLang', route.params['lang']);
       } else {
         location.href = '';
       }

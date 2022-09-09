@@ -1,5 +1,5 @@
 {
-    "TITLE": "Do you believe in luck? Believe now, get the lottery chance based on real luck with <span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70' preserveAspectRatio='non'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain</span></span> technology.",
+    "TITLE": "Do you believe in luck? Believe now, get the lottery chance based on real luck with <span class='relative whitespace-nowrap text-blue-600'><svg aria-hidden='true' viewBox='0 0 418 42' class='absolute top-2/3 left-0 h-[0.58em] w-full fill-blue-300/70'><path d='M203.371.916c-26.013-2.078-76.686 1.963-124.73 9.946L67.3 12.749C35.421 18.062 18.2 21.766 6.004 25.934 1.244 27.561.828 27.778.874 28.61c.07 1.214.828 1.121 9.595-1.176 9.072-2.377 17.15-3.92 39.246-7.496C123.565 7.986 157.869 4.492 195.942 5.046c7.461.108 19.25 1.696 19.17 2.582-.107 1.183-7.874 4.31-25.75 10.366-21.992 7.45-35.43 12.534-36.701 13.884-2.173 2.308-.202 4.407 4.442 4.734 2.654.187 3.263.157 15.593-.78 35.401-2.686 57.944-3.488 88.365-3.143 46.327.526 75.721 2.23 130.788 7.584 19.787 1.924 20.814 1.98 24.557 1.332l.066-.011c1.201-.203 1.53-1.825.399-2.335-2.911-1.31-4.893-1.604-22.048-3.261-57.509-5.556-87.871-7.36-132.059-7.842-23.239-.254-33.617-.116-50.627.674-11.629.54-42.371 2.494-46.696 2.967-2.359.259 8.133-3.625 26.504-9.81 23.239-7.825 27.934-10.149 28.304-14.005.417-4.348-3.529-6-16.878-7.066Z'></path></svg><span class='relative'>BlockChain</span></span> technology.",
     "TITLE_ALT": "You no longer need to trust governments and companies. With BlockChain technology, real luck is now with you.",
     "TITLE_BUTTON_1": "Participate in the Preliminary Draw",
     "TITLE_BUTTON_2": "How to Play Watch and learn.",
@@ -15,5 +15,70 @@
     "FEATURES_LIST_4": "Win win",
     "FEATURES_LIST_4_ALT": "The game lasts for a total of 24 hours, at the end of the game only 1 ticket takes all the collected money. 10% of the vault is transferred back to the vault, 10% goes to the developers, of which 50% is added to lp for $TYKHE TOKEN. Thus, all players win.",
     "SECONDRY_FEATURES_TITLE": "Playing the lotto with crypto has never been so simple.",
-    "SECONDRY_FEATURES_ALT": "Connect your wallet, choose your stablecoin, enter the number of tickets and play."
+    "SECONDRY_FEATURES_ALT": "Connect your wallet, choose your stablecoin, enter the number of tickets and play.",
+    "SECONDRY_FEATURES_LIST_1": "Instant Status Monitoring",
+    "SECONDRY_FEATURES_LIST_1_ALT": "Monitor the status of the game instantly",
+    "SECONDRY_FEATURES_LIST_1_DESC": "See all possibilities with real-time data monitoring.",
+    "SECONDRY_FEATURES_LIST_2": "NFT",
+    "SECONDRY_FEATURES_LIST_2_ALT": " See your tickets as NFT",
+    "SECONDRY_FEATURES_LIST_2_DESC": "Each ticket is created and presented specifically for you. ",
+    "SECONDRY_FEATURES_LIST_3": "Winner",
+    "SECONDRY_FEATURES_LIST_3_ALT": "Customizable Profile",
+    "SECONDRY_FEATURES_LIST_3_DESC": "Customize your profile and show who is the winner.",
+    "JOIN_OUR_COMMUNITY_TITLE": "Join Our Community",
+    "JOIN_OUR_COMMUNITY_ALT": "Join our Telegrama account and get TYKHE.SPACE all the technical support you need.",
+    "JOIN_OUR_COMMUNITY_BTN": "Join Our Community Now",
+    "ROADMAP_TITLE": "OUR ROADMAP",
+    "ROADMAP_ALT": "The order of rollout may change as some features arrive faster than expected and we try to focus on the features/use cases that are most useful to our partners.",
+    "ROADMAP_LIST_1_TITLE": "2022 Q4",
+    "ROADMAP_LIST_1_DATE": "SEPTEMBER 2022",
+    "ROADMAP_LIST_1_DESC": "FIRST STEP",
+    "ROADMAP_LIST_1_CHILD": {
+        "KEY_1": "Preparation of the website",
+        "KEY_2": "White Paper preparation and presentation"
+    },
+    "ROADMAP_LIST_2_TITLE": "2022 Q4",
+    "ROADMAP_LIST_2_DATE": "OCTOBER 2022",
+    "ROADMAP_LIST_2_DESC": "PREPARATIONS",
+    "ROADMAP_LIST_2_CHILD": {
+        "KEY_1": "Opening social media accounts",
+        "KEY_2": "Promotion and budget collection"
+    },
+
+    "ROADMAP_LIST_3_TITLE": "2022 Q4",
+    "ROADMAP_LIST_3_DATE": "2022 NOVEMBER",
+    "ROADMAP_LIST_3_DESC": "FIRST GAMES",
+    "ROADMAP_LIST_3_CHILD": {
+        "KEY_1": "Sharing the designs of the game and updates according to the reactions",
+        "KEY_2": "Playing games on testnets and feedback"
+    },
+
+    "ROADMAP_LIST_4_TITLE": "2022 Q4",
+    "ROADMAP_LIST_4_DATE": "DECEMBER 2022",
+    "ROADMAP_LIST_4_DESC": "START GAME",
+    "ROADMAP_LIST_4_CHILD": {
+        "KEY_1": "Bringing games to the mainnet and making them playable by everyone.",
+        "KEY_2": "Community Events"
+    },
+
+    "ROADMAP_LIST_5_TITLE": "2023 Q1",
+    "ROADMAP_LIST_5_DATE": "2023 JANUARY FEBRUARY MARCH",
+    "ROADMAP_LIST_5_DESC": "NFT",
+    "ROADMAP_LIST_5_CHILD": {
+        "KEY_1": "Distribution and addition of $TYKHE coin to games",
+        "KEY_2": "Presenting your tickets as NFT"
+    },
+
+    "ROADMAP_LIST_6_TITLE": "2023 Q2",
+    "ROADMAP_LIST_6_DATE": "2023 APRIL MAY JUNE",
+    "ROADMAP_LIST_6_DESC": "METAVERSE",
+    "ROADMAP_LIST_6_CHILD": {
+        "KEY_1": "Playable in metaverse worlds of playgrounds",
+        "KEY_2": "Special events and big concerts for METAVERSE"
+    },
+    "BEHIND_TECHNOLOGIES":"THE TECHNOLOGY BEHIND",
+    "SPECIAL_CONTACT_TITLE": "MEET LUCK WITH <span class='text--gradient'>$TYKHE</span> FOR SPECIAL PARTNERSHIPS.",
+    "SPECIAL_CONTACT_DESC": "For business questions, developer support, or general inquiries, contact our team via our Discord. Once verified, go to the #support channel and our Moderators will set you up with the team. Our team consists of several dedicated working groups to ensure that any issue can be met with our full support.",
+    "CONTACT_NOW": "Contact Now",
+    "PAGES": "PAGES"
 }

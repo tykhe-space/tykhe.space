@@ -6,13 +6,15 @@ import { FormsModule } from '@angular/forms';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
+import { TranslateModule } from '@ngx-translate/core';
 
 @NgModule({
 	imports: [
 		CommonModule,
 		RouterModule,
 		FormsModule,
-		TrustModule
+		TrustModule,
+		TranslateModule
 	],
 	declarations: [
 		NavbarComponent,

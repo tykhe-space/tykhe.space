@@ -18,71 +18,69 @@ class KeyValue {
 	value: boolean;
 
 	constructor() {
-
 		this.key = '';
 		this.value = false;
-
 	}
 }
 export const _data: Array<RoadmapItems> = [
 	{
-		title: '2022 Q4',
-		date: '2022 EYLÜL ',
-		desc: 'İLK ADIM',
+		title: 'ROADMAP_LIST_1_TITLE',
+		date: 'ROADMAP_LIST_1_DATE',
+		desc: 'ROADMAP_LIST_1_DESC',
 		childs: [
-			{ key: "Web sitesinin hazırlanması", value: true },
-			{ key: "Whitepaperın hazırlanması ve sunuşu", value: true }
+			{ key: "ROADMAP_LIST_1_CHILD.KEY_1", value: true },
+			{ key: "ROADMAP_LIST_1_CHILD.KEY_2", value: true }
 		],
 		status: true
 	},
 	{
-		title: '2022 Q4',
-		date: '2022 EKİM',
-		desc: 'HAZIRLIKLAR',
+		title: 'ROADMAP_LIST_2_TITLE',
+		date: 'ROADMAP_LIST_2_DATE',
+		desc: 'ROADMAP_LIST_2_DESC',
 		childs: [
-			{ key: "Sosyal medya hesaplarının açılması", value: false },
-			{ key: "Tanıtım ve bütçe toplama", value: false }
+			{ key: "ROADMAP_LIST_2_CHILD.KEY_1", value: false },
+			{ key: "ROADMAP_LIST_2_CHILD.KEY_2", value: false }
 		],
 		status: true
 	},
 	{
-		title: '2022 Q4',
-		date: '2022 KASIM',
-		desc: 'İK OYUNLAR',
+		title: 'ROADMAP_LIST_3_TITLE',
+		date: 'ROADMAP_LIST_3_DATE',
+		desc: 'ROADMAP_LIST_3_DESC',
 		status: false,
 		childs: [
-			{ key: "Oyunun tasarımlarının paylaşılması ve tepkilere göre yenilemeler", value: false },
-			{ key: "Oyunların test ağları üzerinde oynanması ve geri dönüşler", value: false },
+			{  key: "ROADMAP_LIST_3_CHILD.KEY_1", value: false },
+			{  key: "ROADMAP_LIST_3_CHILD.KEY_2", value: false },
 		]
 	},
 	{
-		title: '2022 Q4',
-		date: '2022 ARALIK',
-		desc: 'OYUNA BAŞLA',
+		title: 'ROADMAP_LIST_4_TITLE',
+		date: 'ROADMAP_LIST_4_DATE',
+		desc: 'ROADMAP_LIST_4_DESC',
 		status: false,
 		childs: [
-			{ key: "Oyunların canlıya alınması", value: false },
-			{ key: "Topluluk Etkinlikleri", value: false },
+			{ key: "ROADMAP_LIST_4_CHILD.KEY_1", value: false },
+			{ key: "ROADMAP_LIST_4_CHILD.KEY_2", value: false },
 		]
 	},
 	{
-		title: '2023 Q1',
-		date: '2023 OCAK ŞUBAT MART',
-		desc: 'NFT',
+		title: 'ROADMAP_LIST_5_TITLE',
+		date: 'ROADMAP_LIST_5_DATE',
+		desc: 'ROADMAP_LIST_5_DESC',
 		status: false,
 		childs: [
-			{ key: "$TYKHE koinin dağıtımı ve oyunlara eklenmesi", value: false },
-			{ key: "Biletlerini NFT olarak sunulması", value: false },
+			{ key: "ROADMAP_LIST_5_CHILD.KEY_1", value: false },
+			{ key: "ROADMAP_LIST_5_CHILD.KEY_2", value: false },
 		]
 	},
 	{
-		title: '2023 Q2',
-		date: '2023 NİSAN MAYIS HAZİRAN',
-		desc: 'METAVERSE',
+		title: 'ROADMAP_LIST_6_TITLE',
+		date: 'ROADMAP_LIST_6_DATE',
+		desc: 'ROADMAP_LIST_6_DESC',
 		status: false,
 		childs: [
-			{ key: "Oyun alanlarının metaverse dünyalarında da oynanabilmesi", value: false },
-			{ key: "METAVERSE için özel etkinlikler ve büyük konserler", value: false },
+			{ key: "ROADMAP_LIST_6_CHILD.KEY_1", value: false },
+			{ key: "ROADMAP_LIST_6_CHILD.KEY_2", value: false },
 		]
 	}
 ];

@@ -2,53 +2,41 @@
   class="pt-20 pb-14 sm:pb-20 sm:pt-32 lg:pb-32">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
     <div class="mx-auto max-w-2xl md:text-center">
-      <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-        Kripto ile loto oynamak hiç bu kadar basit olmadı.
-      </h2>
-      <p class="mt-4 text-lg tracking-tight text-slate-700">Cüzdanı bağla stabil coinini seç bilet adetini gir ve oyna
-      </p>
+      <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl"
+        [innerHTML]="'SECONDRY_FEATURES_TITLE' | translate"></h2>
+      <p class="mt-4 text-lg tracking-tight text-slate-700" [innerHTML]="'SECONDRY_FEATURES_ALT' | translate"></p>
     </div>
     <div class="-mx-4 mt-20 flex flex-col gap-y-10 overflow-hidden px-4 sm:-mx-6 sm:px-6 lg:hidden">
       <div>
         <div class="mx-auto max-w-2xl pb-4" *ngFor="let item of items">
           <div class="w-9 rounded-lg bg-blue-600" [innerHTML]="item.icon | trusthtml: 'html'"></div>
-          <h3 class="mt-6 text-sm font-medium text-blue-600">{{ item.name }}</h3>
-          <p class="mt-2 font-display text-xl text-slate-900">
-            {{ item.alt }}
-          </p>
-          <p class="mt-1 text-sm text-slate-600">
-            {{ item.desc }}
-          </p>
+          <h3 class="mt-6 text-sm font-medium text-blue-600" [translate]="item.name"></h3>
+          <p class="mt-2 font-display text-xl text-slate-900" [translate]="item.alt"></p>
+          <p class="mt-1 text-sm text-slate-600" [translate]="item.desc"></p>
         </div>
       </div>
-   
+
     </div>
     <div class="hidden lg:mt-20 lg:block">
       <div class="grid grid-cols-3 gap-x-8" role="tablist" aria-orientation="horizontal">
         <div class="relative" *ngFor="let item of items">
           <div class="w-9 rounded-lg bg-blue-600" [innerHTML]="item.icon | trusthtml: 'html'"></div>
           <h3 class="mt-6 text-sm font-medium text-blue-600">
-            <button  id="headlessui-tabs-tab-:Rirdm:" role="tab"
-              type="button" aria-selected="true" tabindex="0" aria-controls="headlessui-tabs-panel-:Rbbdm:">
-              <span class="absolute inset-0"></span>
-              {{ item.name }}
+            <button id="headlessui-tabs-tab-:Rirdm:" role="tab" type="button" aria-selected="true" tabindex="0"
+              aria-controls="headlessui-tabs-panel-:Rbbdm:">
+              <span class="absolute inset-0"></span>{{ item.name | translate }}
             </button>
           </h3>
-          <p class="mt-2 font-display text-xl text-slate-900">
-            {{ item.alt }}
-          </p>
-          <p class="mt-4 text-sm text-slate-600">
-            {{ item.desc }}
-          </p>
+          <p class="mt-2 font-display text-xl text-slate-900"[translate]="item.alt"></p>
+          <p class="mt-4 text-sm text-slate-600" [translate]="item.desc"></p>
         </div>
       </div>
       <div class="relative mt-20 overflow-hidden rounded-4xl bg-slate-200">
         <div class="-mx-5 flex">
-          <div class="px-5 transition duration-500 ease-in-out "
-            style="transform:translateX(-0%)" aria-hidden="false" id="headlessui-tabs-panel-:Rbbdm:" role="tabpanel"
-            tabindex="0" aria-labelledby="headlessui-tabs-tab-:Rirdm:">
-            <div
-              class="overflow-hidden rounded-xl bg-white shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
+          <div class="px-5 transition duration-500 ease-in-out " style="transform:translateX(-0%)" aria-hidden="false"
+            id="headlessui-tabs-panel-:Rbbdm:" role="tabpanel" tabindex="0"
+            aria-labelledby="headlessui-tabs-tab-:Rirdm:">
+            <div class="overflow-hidden rounded-xl bg-white shadow-lg shadow-slate-900/5 ring-1 ring-slate-500/10">
               <img alt="" src="./assets/img/5.png" decoding="async" data-nimg="future" class="w-full" loading="lazy">
             </div>
           </div>

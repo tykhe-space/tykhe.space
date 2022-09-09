@@ -12,7 +12,7 @@ export class MenuItems {
 export const _menuData: Array<MenuItems> = [
 	{
 		name: '$TYKHE TOKEN',
-		url: '/tykhe-coin',
+		url: '/tykhe-token',
 		childItem: []
 	},
 	{

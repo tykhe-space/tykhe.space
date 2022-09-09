@@ -10,7 +10,5 @@ export class RoadmapComponent {
 	constructor() { }
 
 	ngOnInit(): void {
-		console.log(this.items);
-console.log(this.items[0].childs)
 	}
 }

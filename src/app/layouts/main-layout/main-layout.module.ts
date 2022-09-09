@@ -7,6 +7,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 //#endregion
 
 //#region  Export Modules
+import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
 //#endregion
 
 //#region Services
@@ -18,7 +19,7 @@ import { MainLayoutRoutes } from './main-layout.routing';
 //#region Pages
 import { HomeComponent } from '../../pages/main/home/home.component';
 import { MainPageComponentsModule } from '../../pages/main/components/main-components.module';
-import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
+import { TykheTokenComponent } from '../../pages/main/tykhe-token/tykhe-token.component';
 //#endregion
 
 @NgModule({
@@ -34,7 +35,7 @@ import { TrustModule } from '../../core/pipes/trust-html/trust-html.module';
     declarations: [
         //Components
         HomeComponent,
-        
+        TykheTokenComponent
     ],
     providers: [
         //Services

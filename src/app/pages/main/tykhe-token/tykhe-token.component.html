@@ -1,0 +1,52 @@
+<main>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pt-20 pb-16 text-center lg:pt-32">
+    <h1 class="mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl"
+      [innerHTML]="('TITLE' | translate ) | trusthtml: 'html'">
+    </h1>
+    <p class="mx-auto mt-6 max-w-2xl text-lg tracking-tight text-slate-700"
+      [innerHTML]="('TITLE_ALT' | translate ) | trusthtml: 'html'"></p>
+    <div class="mt-10 flex justify-center gap-x-6">
+      <a class="group inline-flex items-center justify-center rounded-full py-2 px-4 text-sm font-semibold focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-slate-900 text-white hover:bg-slate-700 hover:text-slate-100 active:bg-slate-800 active:text-slate-300 focus-visible:outline-slate-900"
+        href="/register" [innerHTML]="('TITLE_BUTTON_1' | translate ) | trusthtml: 'html'"></a>
+      <a class="group inline-flex ring-1 items-center justify-center rounded-full py-2 px-4 text-sm focus:outline-none ring-slate-200 text-slate-700 hover:text-slate-900 hover:ring-slate-300 active:bg-slate-100 active:text-slate-600 focus-visible:outline-blue-600 focus-visible:ring-slate-300"
+        href="">
+        <svg aria-hidden="true" class="h-3 w-3 flex-none fill-blue-600 group-active:fill-current">
+          <path
+            d="m9.997 6.91-7.583 3.447A1 1 0 0 1 1 9.447V2.553a1 1 0 0 1 1.414-.91L9.997 5.09c.782.355.782 1.465 0 1.82Z">
+          </path>
+        </svg>
+        <span class="ml-3" [innerHTML]="('TITLE_BUTTON_2' | translate ) | trusthtml: 'html'"></span>
+      </a>
+    </div>
+    <div class="mt-36 lg:mt-40">
+      <p class="font-display text-base text-slate-900"
+        [innerHTML]="('TITLE_ALT_FINISH' | translate ) | trusthtml: 'html'"></p>
+    </div>
+  </div>
+  <app-main-features></app-main-features>
+  <app-main-secondry-features></app-main-secondry-features>
+  <app-main-join-our-community></app-main-join-our-community>
+  <app-main-roadmap></app-main-roadmap>
+  <app-main-technologies-behind-tykhen-space></app-main-technologies-behind-tykhen-space>
+
+  <section id="special-contact" aria-labelledby="special-contact-title"
+    class="relative overflow-hidden bg-slate-50 py-20 sm:py-32">
+    <img alt="" src="./assets/img/background-special-contact.jpg"
+      class="absolute top-0 left-1/2 max-w-none translate-x-[-30%] -translate-y-1/4">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-x-8 items-center justify-center">
+        <div>
+          <p class="pb-8" [translate]="'SPECIAL_CONTACT_DESC'"></p>
+          <a href="mailto:contact@tykhe.space" [translate]="'CONTACT_NOW'"
+            class="group inline-flex items-center justify-center rounded-full py-2 px-4 text-sm font-semibold focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 bg-blue-600 text-white hover:text-slate-100 hover:bg-blue-500 active:bg-blue-800 active:text-blue-100 focus-visible:outline-blue-600 sm:mb-8 sm:m-auto">
+          </a>
+        </div>
+        <div class="mt-10">
+          <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl"
+            style="margin-bottom: 0;color: #5158f6;font-size: 48px;font-weight: 700;text-align: center;text-transform: none;line-height: 1.5;"
+            [innerHTML]="'SPECIAL_CONTACT_TITLE' | translate"></h2>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

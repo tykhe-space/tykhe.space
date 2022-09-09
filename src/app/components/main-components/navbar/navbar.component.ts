@@ -19,7 +19,7 @@ export class NavbarComponent implements OnInit {
   constructor(private translate: TranslateService, private router: Router) { }
 
   ngOnInit(): void {
-    console.log(this.translate);
+
     if (window.localStorage.getItem('currentLang')) {
       this.currentLang = window.localStorage.getItem('currentLang') || 'en';
       this.translate.use(this.currentLang);
@@ -30,8 +30,14 @@ export class NavbarComponent implements OnInit {
     this.translate.use(lang);
     this.currentLang = lang;
     this.langMenuShowStatus = !this.langMenuShowStatus;
-    this.router.navigateByUrl(lang);
 
+    const urlBase = this.router.routerState.snapshot.url.split('/')[1];
+    if (urlBase.length > 1 && this.langData.find(x => x.name == urlBase)) {
+      this.router.navigateByUrl(lang + this.router.routerState.snapshot.url.substring(3, this.router.routerState.snapshot.url.length));
+    } else {
+      this.router.navigateByUrl(lang);
+
+    }
   }
 
   getLangItem(lang: string): LangItems {
